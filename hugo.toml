@@ -1,0 +1,4 @@
+baseURL = 'https://isommersieisalvati.github.io'
+languageCode = 'en-us'
+title = 'Isommersieisalvati'
+theme = 'hugo-theme-stack'
