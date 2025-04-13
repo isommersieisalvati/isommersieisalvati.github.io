@@ -2,8 +2,8 @@
 title: 温哥华&杭州骑行体验比较
 description:
 date: 2025-04-06
-slug: test-chinese
 image: cover.jpg
+slug: vancouver-hangzhou-cycling-experience-comparison
 categories:
     - Canada
 ---
