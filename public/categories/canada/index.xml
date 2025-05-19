@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Canada on Isommersieisalvati</title>
-        <link>http://localhost:1313/categories/canada/</link>
+        <link>/blog/categories/canada/</link>
         <description>Recent content in Canada on Isommersieisalvati</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/canada/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/blog/categories/canada/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>温哥华&amp;杭州骑行体验比较</title>
-        <link>http://localhost:1313/post/vancouver-hangzhou-cycling-experience-comparison/</link>
+        <link>/blog/post/vancouver-hangzhou-cycling-experience-comparison/</link>
         <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/vancouver-hangzhou-cycling-experience-comparison/</guid>
-        <description>&lt;img src="http://localhost:1313/post/vancouver-hangzhou-cycling-experience-comparison/cover.jpg" alt="Featured image of post 温哥华&amp;杭州骑行体验比较" /&gt;&lt;p&gt;自从小学学会骑自行车后一直觉得怎么会有这种又不怎么费力又可以带很多东西又好玩的运动，好玩程度堪比荡秋千！昨天看了 base 温哥华的 youtuber About Here 的讲&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=DqvQ-5784po&amp;amp;ab_channel=AboutHere&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>/blog/post/vancouver-hangzhou-cycling-experience-comparison/</guid>
+        <description>&lt;img src="/blog/post/vancouver-hangzhou-cycling-experience-comparison/cover.jpg" alt="Featured image of post 温哥华&amp;杭州骑行体验比较" /&gt;&lt;p&gt;自从小学学会骑自行车后一直觉得怎么会有这种又不怎么费力又可以带很多东西又好玩的运动，好玩程度堪比荡秋千！昨天看了 base 温哥华的 youtuber About Here 的讲&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=DqvQ-5784po&amp;amp;ab_channel=AboutHere&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;为什么学生不再走路&amp;amp;骑车去学校&lt;/a&gt;和&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=fCyvIMn48s4&amp;amp;ab_channel=AboutHere&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;在北美郊区骑车为什么是可行的视频&lt;/a&gt;，又在小红书连续刷到几个关于安省省长福特想砍掉多伦多市中心自行车道的（典型华人风格）讨论，顿时又有点想写点骑车体验比较……&lt;/p&gt;
-&lt;h2 id=&#34;个人骑车习惯&#34;&gt;个人骑车习惯&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;杭州&lt;/em&gt;： 小学学会骑车，初中三年骑车通勤，单程十几分钟到半小时；大学经常骑共享单车，放假的时候因为不再有自己的自行车也经常骑杭州市政府的小红车，但都是买奶茶啊吃饭啊这种任务，没有用来远距离（~四十分钟以上）日常通勤过。&lt;/p&gt;
+&lt;h2 id=&#34;个人骑车习惯&#34;&gt;个人骑车习惯
+&lt;/h2&gt;&lt;p&gt;&lt;em&gt;杭州&lt;/em&gt;： 小学学会骑车，初中三年骑车通勤，单程十几分钟到半小时；大学经常骑共享单车，放假的时候因为不再有自己的自行车也经常骑杭州市政府的小红车，但都是买奶茶啊吃饭啊这种任务，没有用来远距离（~四十分钟以上）日常通勤过。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;温哥华&lt;/em&gt;：去年夏天买了辆二手（maybe 三手？）自行车，之后半年也就每周去超市和游泳馆；今年搬家之后开始每天用自行车通勤。$70 买的是裸车，我自己在迪卡侬网购了车架、锁、脚踏、蹬脚和后篮并且自己安装了，后来又换了一个轮胎，哭泣，总成本约$250。（理论上夜晚骑车应该安装前后 led 灯，我还没有铃铛，这两样都让我妈给海运了，淘宝的自行车配件便宜太多……）&lt;/p&gt;
-&lt;h2 id=&#34;基础建设&#34;&gt;基础建设&lt;/h2&gt;
-&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://rankingroyals.com/infographics/worlds-most-bicycle-friendly-cities-top-90-cities/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;基础建设&#34;&gt;基础建设
+&lt;/h2&gt;&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://rankingroyals.com/infographics/worlds-most-bicycle-friendly-cities-top-90-cities/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;这个排名&lt;/a&gt;里，杭州被列为全球骑行友好城市第七，而前十的其他城市都在欧洲，可见基础建设方面还是很有竞争力的！我觉得优势主要有：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;几乎所有车道都有自行车道，我很久之后才意识到不是每个城市都是人行道-自行车道-公交车站-机动车道（从里到外）的顺序……&lt;/li&gt;
@@ -41,50 +41,50 @@
 &lt;li&gt;温哥华可以把自行车带上天车和公交，公交会有司机协助，天车每个车厢有固定位置。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这么说感觉温哥华完全不行了呢！其实貌似在加拿大是仅次于蒙特利尔和渥太华的骑行友好城市了……小路上还是有不少自行车道的，路况和天气好的话甚至可以放手骑车玩一下（危险动作请勿模仿）。&lt;/p&gt;
-&lt;h2 id=&#34;道路素质&#34;&gt;道路素质&lt;/h2&gt;
-&lt;p&gt;温哥华完胜。初中骑车上学，每到稍大一点的红绿灯必有电动车中年男停下来抽烟。&lt;/p&gt;
+&lt;h2 id=&#34;道路素质&#34;&gt;道路素质
+&lt;/h2&gt;&lt;p&gt;温哥华完胜。初中骑车上学，每到稍大一点的红绿灯必有电动车中年男停下来抽烟。&lt;/p&gt;
 &lt;p&gt;温哥华强制佩戴头盔，杭州好像电动车也强制了，但自行车……也许不？特别明显的是温哥华骑车的【专业】很多，大家不是抱着通勤这样的目的骑的……遇到的人十有八九都是山地车+骑行裤+头盔+水杯这样的配套，二手自行车也普遍有档位调整，没有车架、蹬脚、篮子等国内常见的配件，甚至 rogers 的共享单车都可以调整档位。理论上自行车和机动车享有完全相同的责任和义务，所以大家转弯都会打手势啊礼让行人之类的。我一方面不喜欢这种运动一下就要专门买装备的做法，觉得应该蕴锻炼于无形，随意一点，另一方面不得不承认国内超高比例的电动车/自行车比例其实也是大家负担不起汽车而已。&lt;/p&gt;
-&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
-&lt;p&gt;俩地方都有不适合骑车的季节，杭州夏天被热死，冬天被风吹死，温哥华冬天没那么冷，但天天下雨，而且这里的人跟感觉不到雨一样，穿冲锋衣把帽子撩起来都是给雨面子了，而近视的我内心疯狂尖叫。下雨打伞很危险，尤其是上下坡和急刹车的时候，但雨披解决不了水滴脸上（。&lt;/p&gt;
+&lt;h2 id=&#34;其他&#34;&gt;其他
+&lt;/h2&gt;&lt;p&gt;俩地方都有不适合骑车的季节，杭州夏天被热死，冬天被风吹死，温哥华冬天没那么冷，但天天下雨，而且这里的人跟感觉不到雨一样，穿冲锋衣把帽子撩起来都是给雨面子了，而近视的我内心疯狂尖叫。下雨打伞很危险，尤其是上下坡和急刹车的时候，但雨披解决不了水滴脸上（。&lt;/p&gt;
 &lt;p&gt;曾经西湖可以骑车环湖，现在环湖一圈全部圈为步行区，自行车不让进。相比之下还是 Stanley Park 和 Seaside 更美好！但温哥华很多号称（路程）适合骑车的 trail，比如 Iona Beach 和 Terra Nova 到 Garry Point Park 那段其实都是石子路，骑车会有阻力。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>泛CS跑路向23fall加拿大申请总结</title>
-        <link>http://localhost:1313/post/test-chinese/</link>
+        <link>/blog/post/test-chinese/</link>
         <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/post/test-chinese/cover.jpg" alt="Featured image of post 泛CS跑路向23fall加拿大申请总结" /&gt;&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
-&lt;p&gt;背景很一般，双非一本 CS，百分制绩点 84.75，雅思 8（6.5），无 GRE，无实习，无科研&lt;/p&gt;
-&lt;h2 id=&#34;常见缩写&#34;&gt;常见缩写&lt;/h2&gt;
-&lt;p&gt;ECE： Electrical and Computer Engineer，比纯 CS 更偏硬件但比纯电子更偏软件，相同学校项目门槛通常比纯 CS 低&lt;/p&gt;
+        <guid>/blog/post/test-chinese/</guid>
+        <description>&lt;img src="/blog/post/test-chinese/cover.jpg" alt="Featured image of post 泛CS跑路向23fall加拿大申请总结" /&gt;&lt;h2 id=&#34;背景&#34;&gt;背景
+&lt;/h2&gt;&lt;p&gt;背景很一般，双非一本 CS，百分制绩点 84.75，雅思 8（6.5），无 GRE，无实习，无科研&lt;/p&gt;
+&lt;h2 id=&#34;常见缩写&#34;&gt;常见缩写
+&lt;/h2&gt;&lt;p&gt;ECE： Electrical and Computer Engineer，比纯 CS 更偏硬件但比纯电子更偏软件，相同学校项目门槛通常比纯 CS 低&lt;/p&gt;
 &lt;p&gt;DS：Data Science，项目比 CS 更丰富，但硬核程度 vary，从偏商业分析只涉及少量 python 到狂学高等数学意在机器学习不等。&lt;/p&gt;
 &lt;p&gt;bg：background&lt;/p&gt;
 &lt;p&gt;ML/AI：机器学习/人工智能，前者是后者目前最热门的方向，很难，数学不好的我不打算碰&lt;/p&gt;
 &lt;p&gt;Ad：admit&lt;/p&gt;
 &lt;p&gt;Rej：reject&lt;/p&gt;
 &lt;p&gt;WL：waitlisted&lt;/p&gt;
-&lt;h2 id=&#34;选校&#34;&gt;选校&lt;/h2&gt;
-&lt;p&gt;由于是纯跑路向，首先将范围从全球缩小到加拿大和爱尔兰，最终爱尔兰没有申学校因为 1 留位费太贵，2 无法带父母跑路，加拿大同时满足不会因为运气因素被迫滚回国（h1b），不用学小语种（排除欧陆国家和日本）和可以亲属担保（虽然周期很长），社会相对 diversified（microaggression 较少），因此成为首选。&lt;/p&gt;
+&lt;h2 id=&#34;选校&#34;&gt;选校
+&lt;/h2&gt;&lt;p&gt;由于是纯跑路向，首先将范围从全球缩小到加拿大和爱尔兰，最终爱尔兰没有申学校因为 1 留位费太贵，2 无法带父母跑路，加拿大同时满足不会因为运气因素被迫滚回国（h1b），不用学小语种（排除欧陆国家和日本）和可以亲属担保（虽然周期很长），社会相对 diversified（microaggression 较少），因此成为首选。&lt;/p&gt;
 &lt;p&gt;进一步缩小范围，最好是毕业后不用找到工作就能直接递交 pr 申请的，这种最出名的是两种省提名（联邦 EE 要至少一年全职工作经验），分别是热门省份 bc 的&lt;a class=&#34;link&#34; href=&#34;https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;bcpnp ipg&lt;/a&gt;和更热门省份安省的&lt;a class=&#34;link&#34; href=&#34;https://www.ontario.ca/page/oinp-masters-graduate-stream&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;OINP&lt;/a&gt;，前者条件是省内公立学校 STEM 专业硕博毕业即可，后者是需要公立院校硕博毕业后综合打分，分高者捞，基本上不在多伦多市+读的是 STEM 专业的话，没有工作加分也可以被捞。大家都比较喜欢 bcpnp，因为稳妥无风险，但其实 OINP 也还行，且公认东部工作机会大于西部，我不主申 OINP 的最大原因是——怕冷，怕下雪。&lt;/p&gt;
 &lt;p&gt;缩小范围选校后，我这破背景以及对科研一点兴趣都没有的情况下，科研硕和各大学校王牌项目是不用指望了，比如什么 Waterloo MDSAI, UBC ECE Meng，UT 我甚至都不知道名字的科研硕。总体定位是中高档学校的授课硕到中低档学校的赚钱项目。&lt;/p&gt;
 &lt;p&gt;最终是前期（9-11 月）申了主申和冲刺的 6 个项目，考虑到不好意思麻烦老师传推荐信，打算要是到 3 月还没 offer 再申保底，幸运的是 2 月收到了第一个 offer 于是省了一笔钱。&lt;/p&gt;
-&lt;h2 id=&#34;准备工作&#34;&gt;准备工作&lt;/h2&gt;
-&lt;h3 id=&#34;标化成绩&#34;&gt;标化成绩&lt;/h3&gt;
-&lt;p&gt;包括成绩单、语言成绩、在读证明。成绩单需要在大三结束后打印并盖章，雅思不用很早考（因为两年会失效），大三暑假就算比较充裕了，考到 6.5（6）可以达到大多数要求，7（6.5）可以满足 99%要求。&lt;/p&gt;
-&lt;h3 id=&#34;ps-和-cv&#34;&gt;PS 和 CV&lt;/h3&gt;
-&lt;p&gt;纯 DIY，PS 因为申了两个方向（CS 和 DS）也准备了两份，经过她乡留学 mentor proofread 后（谢谢 bubble tea）又找了 fiverr 上的 native speaker 改，fiverr gig 的质量可以去一亩三分地上文书评价板块看，但热门人选通常……抢不到，要靠蹲点个一两周的，我感受是也没有必要选价格特别高的，除非真的需要详细定制……我这种没有什么经历的人家总不能给我现编吧（x）。&lt;/p&gt;
+&lt;h2 id=&#34;准备工作&#34;&gt;准备工作
+&lt;/h2&gt;&lt;h3 id=&#34;标化成绩&#34;&gt;标化成绩
+&lt;/h3&gt;&lt;p&gt;包括成绩单、语言成绩、在读证明。成绩单需要在大三结束后打印并盖章，雅思不用很早考（因为两年会失效），大三暑假就算比较充裕了，考到 6.5（6）可以达到大多数要求，7（6.5）可以满足 99%要求。&lt;/p&gt;
+&lt;h3 id=&#34;ps-和-cv&#34;&gt;PS 和 CV
+&lt;/h3&gt;&lt;p&gt;纯 DIY，PS 因为申了两个方向（CS 和 DS）也准备了两份，经过她乡留学 mentor proofread 后（谢谢 bubble tea）又找了 fiverr 上的 native speaker 改，fiverr gig 的质量可以去一亩三分地上文书评价板块看，但热门人选通常……抢不到，要靠蹲点个一两周的，我感受是也没有必要选价格特别高的，除非真的需要详细定制……我这种没有什么经历的人家总不能给我现编吧（x）。&lt;/p&gt;
 &lt;p&gt;预算低的基本只能发挥高级 grammarly 作用，比 chatgpt 应该还是好点的，毕竟会改句子顺序之类的，对自己 storytelling 技巧有点信心的用到这步即可，我有好不容易想提高预算改结构，结果 editor 没有理解的我思路改错方向了，最后还得我自己改回来的经历。&lt;/p&gt;
 &lt;p&gt;CV 强烈推荐用 overleaf 找 latex 模板做，不会 latex 没关系，代码里看到和最终效果里一样的文字直接改掉就行了。写之前可以先上小红书和一亩三分地看看长什么样，比如对学生来说教育放最前，tech 专业的要附上 skills，实习经历比项目重要，无论如何也要全部内容放在一页里，etc。如果你申科研硕，以上当我没说……&lt;/p&gt;
-&lt;h3 id=&#34;推荐信&#34;&gt;推荐信&lt;/h3&gt;
-&lt;p&gt;陆本基本是学生自己写完后给老师看，看完拜托老师收到邮件后上传的，不催就主动上传的属于很好的，对授课硕而言，属于强推不一定有用，但黑推估计有反作用……不过陆本基本不会有黑推，毕竟有就业率指标。&lt;/p&gt;
+&lt;h3 id=&#34;推荐信&#34;&gt;推荐信
+&lt;/h3&gt;&lt;p&gt;陆本基本是学生自己写完后给老师看，看完拜托老师收到邮件后上传的，不催就主动上传的属于很好的，对授课硕而言，属于强推不一定有用，但黑推估计有反作用……不过陆本基本不会有黑推，毕竟有就业率指标。&lt;/p&gt;
 &lt;p&gt;有的老师会转发邮件让学生自己上传，其实还是有一点点风险的，学校能查到 ip，如果和 applicant 本人一样会被发现，只是大多数学校不查。&lt;/p&gt;
-&lt;h2 id=&#34;申请过程&#34;&gt;申请过程&lt;/h2&gt;
-&lt;h3 id=&#34;最终申了的项目&#34;&gt;最终申了的项目&lt;/h3&gt;
-&lt;ul&gt;
+&lt;h2 id=&#34;申请过程&#34;&gt;申请过程
+&lt;/h2&gt;&lt;h3 id=&#34;最终申了的项目&#34;&gt;最终申了的项目
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;SFU MPCS：Master of Science in Professional Computer Science (MPCS)&lt;/a&gt;&lt;/p&gt;
@@ -157,8 +157,8 @@ UVIC 另有两个和 MADS 差不多的项目，ECE Meng 需要陶瓷且套到了
 &lt;p&gt;理论上来讲分校和本校共享排名，所以甚至可以毕业后申英国 HPI 和荷兰 search year visa，但都 bcpnp 了估计没人会申这两个的。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;做了功课但最终没申的项目&#34;&gt;做了功课但最终没申的项目&lt;/h3&gt;
-&lt;ul&gt;
+&lt;h3 id=&#34;做了功课但最终没申的项目&#34;&gt;做了功课但最终没申的项目
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;UBCO EE Meng，UVic ECE
 特点是都要陶瓷，都是科研硕，都偏 EE 而非 CS。
@@ -209,8 +209,8 @@ BCIT/UBC/SFU/Emily Carr 四校联合项目，不确定在不在 bcpnp 上（但�
 就业环境应该不能更差了，唯一听说过的互联网公司是 IBM 分部，毕业生估计都跑多伦多了。一年下六个月雪。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;前期费用&#34;&gt;前期费用&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2 id=&#34;前期费用&#34;&gt;前期费用
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;申请费（总共 6 个项目）：约 4300RMB&lt;/p&gt;
 &lt;/li&gt;

@@ -1,4 +1,4 @@
-baseURL = 'https://isommersieisalvati-github-io.vercel.app/'
+baseURL = '/blog/'
 languageCode = 'en-us'
 title = 'Isommersieisalvati'
 theme = 'hugo-theme-stack'
