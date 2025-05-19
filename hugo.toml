@@ -1,4 +1,11 @@
-baseURL = 'https://isommersieisalvati.github.io'
+baseURL = 'https://localhost:1313/'
 languageCode = 'en-us'
 title = 'Isommersieisalvati'
 theme = 'hugo-theme-stack'
+
+[params.sidebar.profile]
+  enabled = true
+
+[params.author]
+  name = "Isommersieisalvati"
+  image = "avatar_owl.png"
