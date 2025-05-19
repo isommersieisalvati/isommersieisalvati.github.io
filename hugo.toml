@@ -2,10 +2,3 @@ baseURL = 'https://heatingale.org/blog/'
 languageCode = 'en-us'
 title = 'Isommersieisalvati'
 theme = 'hugo-theme-stack'
-
-[params.sidebar.profile]
-  enabled = true
-
-[params.author]
-  name = "Isommersieisalvati"
-  image = "avatar_owl.png"
