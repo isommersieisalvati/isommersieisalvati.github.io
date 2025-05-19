@@ -1,0 +1,20 @@
+{
+  "builds": [
+    {
+      "src": "hugo.toml",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "public"
+      }
+    }
+  ],
+  "env": {
+    "HUGO_VERSION": "0.147.3"
+  },
+  "routes": [
+    {
+      "src": "/blog/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
