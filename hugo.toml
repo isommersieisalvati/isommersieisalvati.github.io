@@ -1,4 +1,4 @@
-baseURL = 'https://heatingale.org/blog/'
+baseURL = 'https://isommersieisalvati-github-io.vercel.app/'
 languageCode = 'en-us'
 title = 'Isommersieisalvati'
 theme = 'hugo-theme-stack'
