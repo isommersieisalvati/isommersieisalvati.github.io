@@ -8,6 +8,7 @@
       }
     }
   ],
+  "buildCommand": "hugo --baseURL=https://heatingale/blog/",
   "env": {
     "HUGO_VERSION": "0.147.3"
   },
