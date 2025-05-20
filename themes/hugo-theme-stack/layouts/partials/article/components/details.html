@@ -43,6 +43,11 @@
                 <time class="article-time--reading">
                     {{ T "article.readingTime" .ReadingTime }}
                 </time>
+                {{ partial "helper/icon" "wordcount" }}
+                {{/* ➕ Add word count here */}}
+                {{ $plain := .Plain }}
+                {{ $runeCount := len (strings.TrimSpace $plain) }}
+                <time class="article-time--wordcount">{{ $runeCount }} words</time>
             </div>
         {{ end }}
     </footer>

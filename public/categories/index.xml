@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Isommersieisalvati</title>
-        <link>/blog/categories/</link>
+        <link>//localhost:1313/categories/</link>
         <description>Recent content in Categories on Isommersieisalvati</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Fandom</title>
-        <link>/blog/categories/fandom/</link>
+        <link>//localhost:1313/categories/fandom/</link>
         <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>/blog/categories/fandom/</guid>
+        <guid>//localhost:1313/categories/fandom/</guid>
         <description></description>
         </item>
         <item>
         <title>Canada</title>
-        <link>/blog/categories/canada/</link>
+        <link>//localhost:1313/categories/canada/</link>
         <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>/blog/categories/canada/</guid>
+        <guid>//localhost:1313/categories/canada/</guid>
         <description></description>
         </item>
         <item>
         <title>Canada</title>
-        <link>/blog/categories/test/</link>
+        <link>//localhost:1313/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>/blog/categories/test/</guid>
-        <description>&lt;img src="/blog/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Canada" /&gt;</description>
+        <guid>//localhost:1313/categories/test/</guid>
+        <description>&lt;img src="//localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Canada" /&gt;</description>
         </item>
         
     </channel>

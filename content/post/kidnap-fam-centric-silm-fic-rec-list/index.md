@@ -2,6 +2,7 @@
 title: Silm kidnap fam扫文
 description:
 date: 2025-05-16
+image: cover.png
 slug: kidnap-fam-centric-silm-fic-rec-list
 categories:
   - Fandom
