@@ -1,6 +1,5 @@
 ---
 title: 穷鬼+功效派护肤routine
-description: 你也是穷鬼吗
 date: 2025-05-19
 image: cover.png
 slug: skincare-routine
