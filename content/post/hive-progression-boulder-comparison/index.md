@@ -3,7 +3,7 @@
 title: Hive downtown & Progression抱石馆对比
 description: 离家近就是好！
 date: 2025-06-02
-cover: cover.jpg
+image: cover.jpg
 slug: hive-progression-bouldering-comparison
 categories:
     - Canada
