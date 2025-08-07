@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Isommersieisalvati</title>
-        <link>//localhost:1313/page/</link>
+        <link>//localhost:59778/page/</link>
         <description>Recent content in Pages on Isommersieisalvati</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:59778/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>//localhost:1313/page/about/</link>
+        <link>//localhost:59778/page/about/</link>
         <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/page/about/</guid>
+        <guid>//localhost:59778/page/about/</guid>
         <description>&lt;p&gt;巨量的同人碎碎念和巨量的现充生活！&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>//localhost:1313/page/archives/</link>
+        <link>//localhost:59778/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/page/archives/</guid>
+        <guid>//localhost:59778/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>//localhost:1313/page/links/</link>
+        <link>//localhost:59778/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/page/links/</guid>
+        <guid>//localhost:59778/page/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>//localhost:1313/page/search/</link>
+        <link>//localhost:59778/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/page/search/</guid>
+        <guid>//localhost:59778/page/search/</guid>
         <description></description>
         </item>
         
