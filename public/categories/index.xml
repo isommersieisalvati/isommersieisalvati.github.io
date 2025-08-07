@@ -6,10 +6,10 @@
         <description>Recent content in Categories on Isommersieisalvati</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Fandom</title>
         <link>//localhost:1313/categories/fandom/</link>
-        <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/categories/fandom/</guid>
         <description></description>
@@ -17,9 +17,17 @@
         <item>
         <title>Canada</title>
         <link>//localhost:1313/categories/canada/</link>
-        <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/categories/canada/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Skincare</title>
+        <link>//localhost:1313/categories/skincare/</link>
+        <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/categories/skincare/</guid>
         <description></description>
         </item>
         <item>

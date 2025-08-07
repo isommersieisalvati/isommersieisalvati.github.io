@@ -3,22 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/fandom/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/maglor-highlights-in-home/</loc>
+    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/canada/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/hive-progression-bouldering-comparison/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/page/about/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/page/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/skincare/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/skincare-routine/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/kidnap-fam-centric-silm-fic-rec-list/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/canada/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/vancouver-hangzhou-cycling-experience-comparison/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
@@ -31,12 +49,6 @@
   </url><url>
     <loc>//localhost:1313/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/page/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/test/</loc>
   </url><url>

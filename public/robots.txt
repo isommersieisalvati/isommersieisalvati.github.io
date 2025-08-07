@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /drafts/
+Disallow: /private/
+
+Allow: /index.xml
+Allow: /posts/index.xml
+Allow: /blog/index.xml
+
+Sitemap: https://yourdomain.com/sitemap.xml
