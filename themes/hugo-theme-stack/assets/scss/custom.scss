@@ -1,1 +1,18 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+.highlight-yellow {
+  background-color: #ffe0b2; /* soft yellow */
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.highlight-green {
+  background-color: #c8e6c9; /* light green */
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.highlight {
+  background-color: #bbdefb; /* default light blue */
+  padding: 0 2px;
+  border-radius: 2px;
+}

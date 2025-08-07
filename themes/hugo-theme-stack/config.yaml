@@ -4,6 +4,10 @@ module:
     min: "0.87.0"
 
 params:
+  assets:
+    css:
+      - "scss/custom.scss"
+
   mainSections:
     - post
   featuredImageField: image
