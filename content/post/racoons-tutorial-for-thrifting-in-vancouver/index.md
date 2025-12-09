@@ -1,13 +1,11 @@
 ---
 title: 温哥华浣熊捡垃圾教学
-description:
+description: 或对您的金钱观造成不可名状的影响
 date: 2025-12-08
 image: cover.jpg
 slug: racoons-tutorial-for-thrifting-in-vancouver
   - Canada
 ---
-
-或对您的金钱观造成不可名状的影响
 
 ## 捡垃圾，就是前生注定
 
