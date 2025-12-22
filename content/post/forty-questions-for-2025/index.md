@@ -9,6 +9,8 @@ categories:
   - Fandom
 ---
 
+[原问卷](https://stephango.com/40-questions)
+
 ### 1. What did you do this year that you’d never done before?
 
 Hiking，去了 chiliwack 和 Joffrey。还蛮有趣的但我的膝盖不够坚强，明年再去的话考虑购入登山杖&练腿……
